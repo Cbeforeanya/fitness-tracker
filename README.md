@@ -72,7 +72,7 @@ bash
 Copy
 Edit
 # Clone the repo
-git clone https://github.com/your-username/fitness-tracker.git
+git clone https://github.com/Cbeforeanya/fitness-tracker.git
 
 # Install dependencies
 npm install
